@@ -1,6 +1,6 @@
 # Car Showroom Java App
 
-Car Showroom is a JavaFX application representing a car warehouse with distinct user roles - manufacturer and viewer.
+Car Showroom is a JavaFX application representing a car warehouse with distinct user roles - manufacturer and viewer. It was an undergrad project of Level-1 Term-2 of CSE108 sessional.
 
 ## Features
 
