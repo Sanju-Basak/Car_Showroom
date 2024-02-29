@@ -1,0 +1,5 @@
+MARY,2017,Dark Grey,Blue,Red,BMW,116d,55132,6
+38000,2012,Blue,Light Green,,Honda,Civic,9200,8
+3800000,2012,Blue,Light Green,,Honda,Civic,9200000,10
+38004,2003,Green,Black,,Toyota,123A,9800,11
+ABC132,2007,Yellow,,,Toyota,Corolla,5900,5
